@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as freelancer<br>🌱 I’m currently learning Ruby and RoR<br>🧪 eager to learn a lot<br>🗣️English/Spanish
+🔭 currently working as freelancer<br>🌱 I’m currently learning Ruby and RoR<br>🧪 eager to learn a lot<br>🗣️English/Spanish
 
 
 ## 🌐 Socials:
